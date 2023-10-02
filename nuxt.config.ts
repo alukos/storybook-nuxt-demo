@@ -5,6 +5,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/image',
     '@pinia/nuxt',
+    '@nuxtjs/tailwindcss'
   ],
   runtimeConfig: {
     app: {
